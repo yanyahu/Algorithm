@@ -11,5 +11,5 @@ def fib(n):
 		f1, f2 = f2, f1 + f2
 	return f2
 
-for i in range(10):
+for i in range(12):
 	print fib(i),
