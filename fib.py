@@ -2,8 +2,8 @@
 # @Author: yanyahu
 # @Date:   2017-06-23 09:34:55
 # @Last Modified by:   yanyahu
-# @Last Modified time: 2017-06-26 10:59:09
-
+# @Last Modified time: 2019-05-07 01:37:06
+# yanyahu
 
 def fib(n):
 	f1 = f2 = 1
