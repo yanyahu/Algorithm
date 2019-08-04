@@ -25,10 +25,6 @@ Explanation: There are two distinct solutions to the 4-queens puzzle as shown be
 
 class Solution(object):
     def totalNQueens(self, n):
-        """
-        :type n: int
-        :rtype: int
-        """
         if n < 1:
             return []
         self.count = 0
