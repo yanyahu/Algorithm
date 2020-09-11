@@ -29,4 +29,5 @@ https://leetcode-cn.com/
 |[0027](0027_移除元素)|移除元素|[python](0027_移除元素/main.py) &#124; go|
 |[0049](0049_字母异位词分组)|字母异位词分组|[python](0049_字母异位词分组/main.py) &#124; go|
 |[0050](0050_powx-n)|pow(x, n)|[python](0050_powx-n/main.py) &#124; go|
+|[0052](0052_N皇后_II)|N皇后 II|[python](0052_N皇后_II/main.py) &#124; go|
 
