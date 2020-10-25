@@ -10,5 +10,5 @@ class Solution:
             if i_key in result_dict:
                 result_dict[i_key].append(i)
             else:
-                result_dict[i_key] = [i,]
+                result_dict[i_key] = [i]
         return list(result_dict.values())
